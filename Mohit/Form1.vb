@@ -1,4 +1,4 @@
-﻿Public Class Form1
+﻿Public Class Calculator
     Dim a, b, q As Double
     Dim opration As String
     Dim assign_inp As Double = 0
