@@ -331,7 +331,7 @@ Partial Class Form1
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ButtonFace
-        Me.ClientSize = New System.Drawing.Size(373, 426)
+        Me.ClientSize = New System.Drawing.Size(373, 420)
         Me.Controls.Add(Me.Button26)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button23)
